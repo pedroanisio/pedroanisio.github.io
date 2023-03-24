@@ -1,4 +1,3 @@
-# [[index|🔙]]
 # Valentina Cavaleira e a Aventura da Montanha Encantada
 
 Valentina era uma menina corajosa que vivia em uma pequena vila. Ela tinha sido encontrada por um nobre cavaleiro do Reino quando era apenas um bebê, abandonada em uma floresta. O cavaleiro, tocado pela sorte da pequena Valentina, decidiu levá-la para o Reino e pedir autorização à rainha Marcela para criá-la como sua própria filha. A bondosa rainha aceitou Valentina de braços abertos e a criou com amor e carinho.
@@ -22,4 +21,6 @@ O gentil gigante ficou impressionado com as respostas dela e reconheceu a corage
 Após responder corretamente às perguntas, Valentina e Wandinha foram autorizadas a entrar na câmara secreta onde o tesouro mágico estava escondido. Lá, encontraram uma pedra mística que brilhava com todas as cores do arco-íris. A pedra possuía o poder de curar feridas e trazer harmonia a todos que a tocavam.
 
 Valentina e Wandinha retornaram ao Reino com a pedra mística, e juntas, usaram seu poder para curar os enfermos e trazer paz à comunidade. A aventura na Montanha Encantada ensinou a Valentina o valor da coragem, sabedoria e bondade, e sua história se tornou uma lenda inspiradora para todos os habitantes do Reino. A rainha Marcela se encheu de orgulho e gratidão, sabendo que a menina que ela havia acolhido havia se tornado uma verdadeira heroína.
+
+## FIM
 
