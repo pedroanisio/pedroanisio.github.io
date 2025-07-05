@@ -1,1 +1,2 @@
-[Valentina Cavaleira e a Aventura da Montanha Encantada](Valentina-Cavaleira.md)
+[Building AI-Focused Command Line Interfaces: A Practical Guide]
+[(building-ai-focused-cli.md)]
